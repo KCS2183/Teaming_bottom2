@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.teaming_bottom.MainActivity">
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="BELL"
+        app:showAsAction="ifRoom"/>
+</menu>
